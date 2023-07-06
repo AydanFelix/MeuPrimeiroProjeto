@@ -1,2 +1,2 @@
 # MeuPrimeiroProjeto
-Primeiro projeto foi por mim e pelo gaia.
+Primeiro projeto feito por mim e pelo gaia.
